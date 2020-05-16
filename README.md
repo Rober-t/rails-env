@@ -121,6 +121,23 @@ Code > Preferences > Settings
   "workbench.editor.enablePreview": false
 }
 ```
+`echo 'PATH="$PATH:/Applications/Visual Studio Code.app/Contents/Resources/app/bin"' >> ~/.zshrc`
+`code --list-extensions`
+```
+akamud.vscode-theme-onedark
+bung87.rails
+bung87.vscode-gemfile
+castwide.solargraph
+Hridoy.rails-snippets
+kaiwood.endwise
+ninoseki.vscode-gem-lens
+rebornix.ruby
+sianglim.slim
+vayan.haml
+vortizhe.simple-ruby-erb
+vscode-icons-team.vscode-icons
+wingrunr21.vscode-ruby
+```
 
 # TEST
 
