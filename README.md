@@ -122,7 +122,9 @@ Code > Preferences > Settings
 }
 ```
 `echo 'PATH="$PATH:/Applications/Visual Studio Code.app/Contents/Resources/app/bin"' >> ~/.zshrc`
+
 `code --list-extensions`
+
 ```
 akamud.vscode-theme-onedark
 bung87.rails
