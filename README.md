@@ -123,7 +123,7 @@ Code > Preferences > Settings
 ```
 `echo 'PATH="$PATH:/Applications/Visual Studio Code.app/Contents/Resources/app/bin"' >> ~/.zshrc`
 
-`code --list-extensions`
+Extensions:
 
 ```
 akamud.vscode-theme-onedark
@@ -149,4 +149,4 @@ wingrunr21.vscode-ruby
 
 `rake db:create`
 
-`rails server
+`rails server`
